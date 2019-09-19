@@ -8,5 +8,6 @@ In this part, we use apriori to analyze which frequently bought together items i
 
 Using apriori, we found that in our data, there are some items that are frequently bough together (Music Pad-Camera) for example but has low lift, means that it still unlikely/low chance that those items bought together. 
 
-2. <b>Recomendation System Using Colaborative Filtering : User Based 
-  In this part we use Colaborative Filtering to predict and recomend movies to user 'Mulya'. We use 2 method, first by Manual and second by using Modules Surprise. In manual method, we use pearson corelation. 
+2. <b>Recomendation System Using Colaborative Filtering : User Based </b>
+  In this part we use Colaborative Filtering to predict and recomend movies to user 'Mulya'. We use 2 method, first by Manual and second by using Modules Surprise. In manual method, we use pearson corelation.
+  ![](dude.png)
